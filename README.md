@@ -1,2 +1,1 @@
-# FunCobal-on-Cups
-FunCobal on Cups (FCB on Cups / FonC)
+# FunCobal on Cups (FCB on Cups / FonC);Web Application Framework
